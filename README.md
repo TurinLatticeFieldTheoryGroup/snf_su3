@@ -1,4 +1,4 @@
-# SNFs for SU(3) lattice gauge theory
+# SNFs for d=3+1 SU(3) lattice gauge theory
 
 
 Simple implementation of the Stochastic Normalizing Flows used in [Scaling of Stochastic Normalizing Flows in SU(3) lattice gauge theory](https://arxiv.org/abs/2412.00200)
