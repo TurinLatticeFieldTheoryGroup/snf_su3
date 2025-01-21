@@ -1,5 +1,7 @@
 # SNFs for d=3+1 SU(3) lattice gauge theory
-[![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/TurinLatticeFieldTheoryGroup/snf_su3/blob/59592f4b7d4acb25c43a69fc3b68dcd558452440/SNF_SU3.ipynb)
+[![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/TurinLatticeFieldTheoryGroup/snf_su3/blob/59592f4b7d4acb25c43a69fc3b68dcd558452440/SNF_SU3.ipynb) <a target="_blank" href="https://colab.research.google.com/github/TurinLatticeFieldTheoryGroup/snf_su3/blob/43b7bd68832c50c6f4483434237ee718b127f92e/SNF_SU3.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Simple implementation of the Stochastic Normalizing Flows used in [Scaling of Stochastic Normalizing Flows in SU(3) lattice gauge theory](https://arxiv.org/abs/2412.00200)
 
